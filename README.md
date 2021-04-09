@@ -1,22 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm KuyiKing
 
-<!--
-**Schlampig/Schlampig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am now interested in natural language processing (especially information extraction and machine comprehension) and knowledge graph.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## My Status
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Schlampig&theme=prussian&show_icons=true" alt="Schlampig" />
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schlampig&theme=prussian&layout=compact&hide=html,asp,jupyter notebook" alt="Schlampig" />
 
+## My Works
+> A collection of papers, codes, projects, tutorials ... for **Knowledge Graph** and other **NLP** methods.
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schlampig&repo=Knowledge_Graph_Wander&theme=material-palenight" />
+
+> My several trials (and trifles) on the game [Arknights](https://ak.hypergryph.com/index) :)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schlampig&repo=Knowledge_Graph_Wander&theme=material-palenight" />
+
+
 
