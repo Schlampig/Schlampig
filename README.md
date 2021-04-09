@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm KuyiKing
 
-> I am now interested in natural language processing (especially information extraction and machine comprehension) and knowledge graph.
+*I am now interested in Information Extraction, Machine Reading Comprehension, and Knowledge Graph.*
+
+<br>
 
 ## My Status
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Schlampig&theme=prussian&show_icons=true" alt="Schlampig" />
