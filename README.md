@@ -7,12 +7,10 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schlampig&theme=prussian&layout=compact&hide=html,asp,jupyter notebook" alt="Schlampig" />
 
 ## My Works
-- [Knowledge_Graph_Wander](https://github.com/Schlampig/Knowledge_Graph_Wander)
-> A collection of papers, codes, projects, tutorials ... for **Knowledge Graph** and other **NLP** methods.
+- [Knowledge_Graph_Wander](https://github.com/Schlampig/Knowledge_Graph_Wander): A collection of papers, codes, projects, tutorials ... for **Knowledge Graph** and other **NLP** methods.
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schlampig&repo=Knowledge_Graph_Wander&theme=material-palenight" />
 
-- [OaKnights](https://github.com/Schlampig/OaKnights)
-> My several trials (and trifles) on the game [Arknights](https://ak.hypergryph.com/index) :)
+- [OaKnights](https://github.com/Schlampig/OaKnights): My several trials (and trifles) on the game [Arknights](https://ak.hypergryph.com/index) :)
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Schlampig&repo=OaKnights&theme=material-palenight" />
 
 
