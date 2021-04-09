@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schlampig&theme=prussian&layout=compact&hide=html,asp,jupyter notebook" alt="kwea123" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Schlampig&theme=prussian&show_icons=true" alt="kwea123" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schlampig&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
