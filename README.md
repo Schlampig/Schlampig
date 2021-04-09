@@ -2,8 +2,6 @@
 
 > I am now interested in **Information Extraction**, **Machine Reading Comprehension**, and **Knowledge Graph**.
 
-<br>
-
 ## My Status
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Schlampig&theme=prussian&show_icons=true" alt="Schlampig" />
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schlampig&theme=prussian&layout=compact&hide=html,asp,jupyter notebook" alt="Schlampig" />
