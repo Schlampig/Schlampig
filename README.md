@@ -12,7 +12,8 @@
 <img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Schlampig&repo=Knowledge_Graph_Wander&theme=prussian" />
 <img align="center"  width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Schlampig&repo=OaKnights&theme=prussian" />
 
-![Visit counter](https://count.getloli.com/get/@:SchlampigGitHub?theme=rule17)
+### Visit Counter
+![Visit counter](https://count.getloli.com/get/@:SchlampigGitHub?theme=rule42)
 
 
 
